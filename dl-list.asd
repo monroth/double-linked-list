@@ -3,7 +3,7 @@
 (asdf:defsystem #:dl-list
   :description "Decent double-linked list implementation"
   :author "commander-thrashdin"
-  :license  "CCO"
+  :license  "ССЩ"
   :version "0.1"
   :serial t
   :components ((:file "package")
